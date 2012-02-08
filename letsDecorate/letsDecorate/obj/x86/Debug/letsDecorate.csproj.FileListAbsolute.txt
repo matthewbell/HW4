@@ -8,3 +8,8 @@ C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug
 C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.exe
 C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.pdb
 C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILES\SCHOOL\CIS355\HW4\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.exe
+C:\FILES\SCHOOL\CIS355\HW4\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.pdb
+C:\FILES\SCHOOL\CIS355\HW4\letsDecorate\letsDecorate\bin\Debug\letsDecorate.exe
+C:\FILES\SCHOOL\CIS355\HW4\letsDecorate\letsDecorate\bin\Debug\letsDecorate.pdb
+C:\FILES\SCHOOL\CIS355\HW4\letsDecorate\letsDecorate\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -44,6 +44,11 @@ namespace letsDecorate
             Console.WriteLine("Press the m key to see the menu or any other key to exit.");
             string menuChoice = Console.ReadKey().Key.ToString();
             if (menuChoice=="M"){
+                gimmeMenu();
+            }
+        }
+        public static void gimmeMenu()
+        {
                 Console.Clear();
                 Console.WriteLine("Welcome to Matt's Pizza");
                 Console.WriteLine("We offer 4 pies:");
@@ -72,7 +77,6 @@ namespace letsDecorate
                 Console.WriteLine("");
                 Console.WriteLine("Press any key to exit.");
                 Console.ReadKey();
-            }
         }
     }
 }
