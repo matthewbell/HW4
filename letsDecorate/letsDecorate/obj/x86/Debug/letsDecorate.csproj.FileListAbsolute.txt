@@ -1,0 +1,10 @@
+H:\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.exe
+H:\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.pdb
+H:\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.exe
+H:\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.pdb
+C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.exe
+C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\letsDecorate.pdb
+C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.exe
+C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\bin\Debug\letsDecorate.pdb
+C:\FILES\SCHOOL\CIS355\decorator pattern\letsDecorate\letsDecorate\obj\x86\Debug\ResolveAssemblyReference.cache
